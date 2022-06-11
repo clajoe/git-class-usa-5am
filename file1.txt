@@ -1,3 +1,7 @@
 This is a first file on the foldes 
 this is a 2nd line of the code
+<<<<<<< HEAD
  this is a different code on the master branch
+=======
+this code is added from the dev branch
+>>>>>>> qa

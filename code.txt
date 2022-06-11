@@ -1,3 +1,6 @@
- this is a code file
+
+this is a code file
 this is a line added in master baranch
-this should resolve the conflit
+this is a code file
+this is a code added in the qa branch
+this is test purpose
