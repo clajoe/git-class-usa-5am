@@ -1,1 +1,3 @@
  this is a code file
+this is a line added in master baranch
+this should resolve the conflit
